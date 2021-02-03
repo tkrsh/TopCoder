@@ -1,0 +1,18 @@
+
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.autocomplete');
+    var instances = M.Autocomplete.init(elems, options);
+    var instance = M.Autocomplete.getInstance(elem);
+    instance.open();
+    
+    instance.updateData("{{message}}");
+      
+    instance.selectOption(el);
+    instance.close();
+
+
+  });
+  </script>
+

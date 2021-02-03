@@ -1,0 +1,12 @@
+{% if messages %}
+
+    {% for message in messages %}
+        <script>
+            M.toast({
+                html: "{{message}}",
+                classes: 'black lighten-3  rounded ',
+                displayLength: 2000
+            }); 
+        </script>
+    {% endfor %}
+{% endif %}
