@@ -34,7 +34,7 @@ Easy to use interface powered by materialize css and Django
 
 1 ) Django Version 3.1.5
 
-2 ) Materialize CSS https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css
+2 ) Materialize CSS 
 
 
 
