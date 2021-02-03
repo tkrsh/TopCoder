@@ -43,6 +43,6 @@ Easy to use interface powered by materialize css and Django
 
 
 
-Hosted on AWS htttps://topcoder.tkrsh.com
+Hosted on AWS https://topcoder.tkrsh.com
 
 
