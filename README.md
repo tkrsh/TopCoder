@@ -45,4 +45,6 @@ Easy to use interface powered by materialize css and Django
 
 ### Additional Details 
 
+Hosted on EC-2 instance @AWS
+
 
