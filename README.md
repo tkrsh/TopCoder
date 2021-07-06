@@ -1,5 +1,9 @@
 ## TopCoder 
 
+
+https://topcoder.tkrsh.com
+
+
 A webapp to rank top competitive coders using elo ratings from various competitive coding websites such as codeforces and codechef.
 
 We help you find the top coder according to your needs, try searching by country , city or organization! 
@@ -40,9 +44,5 @@ Easy to use interface powered by materialize css and Django
 
 
 ### Additional Details 
-
-
-
-Hosted on AWS https://topcoder.tkrsh.com
 
 
