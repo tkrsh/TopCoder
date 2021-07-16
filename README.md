@@ -31,17 +31,7 @@ Easy to use interface powered by materialize css and Django
 5) Data Analysis and User History Graph
 
 
-
-
-### Requirements 
-
-
-1 ) Django Version 3.1.5
-
-2 ) Materialize CSS 
-
-
-
+Running Django@3.5.1
 
 ### Additional Details 
 
