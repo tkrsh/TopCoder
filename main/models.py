@@ -1,7 +1,7 @@
 from django.db import models
 
 class Ratings(models.Model):
-
+    """ model for ratings"""
     leaderboard_rank= models.IntegerField(null=True)
     username= models.CharField(max_length=100,null=True)
     name= models.CharField(max_length=100,null=True)
