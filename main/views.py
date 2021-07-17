@@ -27,7 +27,7 @@ def homepage(request):
     
     ordered = Ratings.objects.all()[:400]
     if x : 
-        print(data,x)
+      
         item_per_page=500
         
         if data == "name":
